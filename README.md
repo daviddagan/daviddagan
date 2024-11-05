@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @daviddagan
-- 👀 I’m interested in fullstack position
-- 🌱 I’m currently learning dart/flutter
 - 📫 How to reach me miszahav2@gmail.com
